@@ -1,0 +1,10 @@
+C:\Users\botht\Desktop\facultete\semestrul4\Datenbanken2\Labs\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\botht\Desktop\facultete\semestrul4\Datenbanken2\Labs\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\botht\Desktop\facultete\semestrul4\Datenbanken2\Labs\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\botht\Desktop\facultete\semestrul4\Datenbanken2\Labs\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\botht\Desktop\facultete\semestrul4\Datenbanken2\Labs\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\botht\Desktop\facultete\semestrul4\Datenbanken2\Labs\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\botht\Desktop\facultete\semestrul4\Datenbanken2\Labs\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\botht\Desktop\facultete\semestrul4\Datenbanken2\Labs\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\botht\Desktop\facultete\semestrul4\Datenbanken2\Labs\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\botht\Desktop\facultete\semestrul4\Datenbanken2\Labs\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
